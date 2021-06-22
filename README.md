@@ -12,7 +12,7 @@ how to connect to postgres db using DBeaver
 3. click the Elephant
 <img width="688" alt="截屏2021-06-22 下午2 58 11" src="https://user-images.githubusercontent.com/21968222/122871641-473b6100-d36a-11eb-86da-df8975fd86cd.png">
 
-  3-1. if it's your first time to connect to the postgres db, it will ask you to install drivers. (just click next.)
+  3-1. if it's your first time to connect to the postgres db, it will ask you to install drivers. (click next.)
 
 
 4. in the connection setting, fill in the 5 slots:
