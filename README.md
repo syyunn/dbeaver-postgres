@@ -3,7 +3,8 @@ how to connect to postgres db using DBeaver
 
 ## Step-by-step
 1. download and install [DBeaver](https://dbeaver.com/) 
-1-1. community version is okay.
+ 
+    1-1. community version is okay.
 
 2. click the `create connection` button 
 <img width="458" alt="截屏2021-06-22 下午2 53 37" src="https://user-images.githubusercontent.com/21968222/122871200-a2b91f00-d369-11eb-9d30-6355f2474e28.png">
